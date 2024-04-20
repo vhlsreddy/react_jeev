@@ -21,11 +21,12 @@ To access your application, simply open the URL provided in your browser.
      - mongoose: ^8.3.2
      - multer: ^1.4.5-lts.1
      - nodemon: ^3.1.0
-4.So,check carefully whether you have installed them or not before running
+4.Important: Check carefully whether you have installed them or not before running the server
 5. Start the server with `npm start`.
 
 ### Additional Steps
-- Make sure to install Axios by running `npm install axios` in both the client and server directories.
-
+1.Make sure to install Axios by running `npm install axios` in both the client and server directories.
+2.Both the client-side and server-side should be running concurrently. Do not close one while working on the other.
+ 
 
 
