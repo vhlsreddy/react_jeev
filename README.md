@@ -27,6 +27,7 @@ To access your application, simply open the URL provided in your browser.
 ### Additional Steps
 1.Make sure to install Axios by running `npm install axios` in both the client and server directories.
 2.Both the client-side and server-side should be running concurrently. Do not close one while working on the other.
+
  
 
 
